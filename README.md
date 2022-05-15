@@ -36,9 +36,7 @@ If you have any problems please reach out to us on [Discord](discord.gg/thesneak
 ## Authors
 
 Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@ShadyDaDev](https://twitter.com/ShadyDaDev)
+[@ShadyDaDev](https://twitter.com/ShadyDaDev)
 ## License
 
 You can do whatever you want with the bot, we are trying to keep it opened sourced that way future improvements can be made by us or anyone else that wants to contribute.
