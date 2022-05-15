@@ -34,8 +34,6 @@ which will get the bot running. You can also deploy this bot onto a server and r
 If you have any problems please reach out to us on [Discord](discord.gg/thesneakydevils) or you can reach out to Shady on Twitter(check the authors section.)
 
 ## Authors
-
-Contributors names and contact info
 [@ShadyDaDev](https://twitter.com/ShadyDaDev)
 ## License
 
