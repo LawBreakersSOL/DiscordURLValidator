@@ -24,7 +24,7 @@ npm i
 
 * First things first you will need to create a Discord bot through their [portal](https://discord.com/developers/applications)). If you need help I suggest you watch the first part of this [video](https://www.youtube.com/watch?v=JMmUW4d3Noc) which does a good job explaining how to do everything.
 * Open up the .env file and edit four fields you see. The first field is the discord token, you just replace what is after the equal signs with your token from the portal. The next field is the prefix, you can leave it as it is or change it to whatever you want. The third field is the approved member. This is basically the server owner, or someone you trust to be able to post/whitelist any links. The final field is the channels you want to watch. So you just want to seperate each channel by a comma.
-*Once you have the .env edited, you can now run  
+* Once you have the .env edited, you can now run  
 ```
 node index
 ```
