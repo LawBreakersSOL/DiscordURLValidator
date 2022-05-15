@@ -41,4 +41,4 @@ You can do whatever you want with the bot, we are trying to keep it opened sourc
 
 ## Things To Do
 
-* Check for spaces between, as of right now you tube.com will not work but youtube .com will. I will work on this once I get some spare time.
+* Check for spaces between, as of right now you tube.com will be deleted but youtube .com will pass through. I will work on this once I get some spare time.
