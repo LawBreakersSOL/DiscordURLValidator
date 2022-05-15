@@ -38,3 +38,7 @@ If you have any problems please reach out to us on [Discord](discord.gg/thesneak
 ## License
 
 You can do whatever you want with the bot, we are trying to keep it opened sourced that way future improvements can be made by us or anyone else that wants to contribute.
+
+## Things To Do
+
+* Check for spaces between, as of right now you tube.com will not work but youtube .com will. I will work on this once I get some spare time.
