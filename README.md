@@ -10,8 +10,7 @@ This bot was written in a couple of hours while it was 2AM. So if you see someth
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* NodeJS.
 
 ### Installing
 
